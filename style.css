@@ -1,0 +1,92 @@
+body {
+	background-image: url('background.jpg');
+	
+
+}
+.nav{
+	margin: 8px;
+}
+
+#h1{
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+.container {
+margin: 5px;
+justify-content: center;
+
+}
+
+.col-4{
+
+	border: 2px solid;
+	margin: 9px;
+	padding: 5px;
+	border-radius: 4px;
+}
+.duara{
+	width: 80px;
+	height: 80px;
+	border-radius: 80%;
+	border: 2px solid green;
+	object-fit: cover;
+}
+
+#kati{
+	 align-content: center;
+	 margin-right: 50px;
+}
+.card-body{
+	background-color: #c7d7ba;
+	border: 2px solid rgba(0, 29, 0, 0.3); 
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0,0,0.8);
+}
+
+.card-col-3{
+ margin-top: 30px;
+ margin-bottom: 40px;
+	}
+
+
+.duara-la-kati{
+	width: 100px;
+	height: 100px;
+	border-radius: 80%;
+	border: 3px solid green;
+	object-fit: cover;
+
+}
+.card-img-top{
+	border-radius: 25px;
+	margin: 3px;
+}
+
+.huge{
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	border: 5px solid green;
+	object-fit: cover;
+	box-shadow: 0 4px 8px rgba(0,0,0.8);
+	margin-left: 49px;
+	margin-bottom: 49px;
+}
+
+.head{
+	letter-spacing: 8px;
+	text-align: center;
+	font-family: Gerogia,serif;
+}
+
+.ndogo{
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border: 5px solid green;
+	object-fit: cover;
+	box-shadow: 0 4px 8px rgba(0,0,0.8);
+ 
+}
